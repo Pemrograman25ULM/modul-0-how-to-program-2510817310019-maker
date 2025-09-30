@@ -1,0 +1,1 @@
+print('andi berkata,"kamu pasti bisa"')
